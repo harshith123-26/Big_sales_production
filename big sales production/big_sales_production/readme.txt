@@ -1,3 +1,1 @@
-I HAVE COMPLETED MY FIRST PROJECT 
-THE DATE IS 13TH JUNE 2024
-THANKS TO YBI FOUNDATION ! cheers
+Big Sales Production is a web-based sales and production management system designed to streamline business operations by integrating sales tracking, product management, and production monitoring into a single platform. The application helps organizations manage high-volume sales efficiently while ensuring smooth coordination between production and sales departments
